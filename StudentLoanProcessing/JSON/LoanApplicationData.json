@@ -1,0 +1,19 @@
+{
+  "Id": 1,
+  "Title": "Mr.",
+  "FirstName": "Girish",
+  "LastName": "Srinivasa",
+  "EmailAddress": "girish@testmail.com",
+  "ContactInfo": {
+    "Id": 1,
+    "ApplicationId": 1,
+    "AddressLine1": "Unit 45",
+    "AddressLine2": "Test Street",
+    "Suburb": "Canberra",
+    "Postcode": 2600,
+    "State": "ACT",
+    "Country": "Australia"
+  },
+  "YearlyIncome": 125000.00,
+  "LoanAmount": 10000.00
+}
